@@ -1,0 +1,1 @@
+This is a simple 1.10.2 Mod designed to add bones to the drop tables of various entities in Minecraft.
