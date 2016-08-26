@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MoreBones",
+  "name": "More Bones",
+  "description": "Adds Bones as drops to several other logical creatures, ie. Cows, Pigs, etc...",
+  "version": "1.0.0",
+  "mcversion": "1.10.2",
+  "url": "None Currently",
+  "updateUrl": "None Currently",
+  "authorList": ["Ian Angelos"],
+  "credits": "Me...it was all me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [mod_minecraftForge]
+}
+]
